@@ -1,0 +1,1 @@
+{"config":{"step":{"user":{"title":"Denon Telnet","data":{"host":"Host"}}},"error":{"cannot_connect":"Cannot connect on port 23. Only one telnet session is allowed, so turn off telnet in denonavr."},"abort":{"already_configured":"Already configured"}}}
